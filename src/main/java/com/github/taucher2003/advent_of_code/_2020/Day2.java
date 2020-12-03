@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 public class Day2 {
 
     public static void main(String[] args) throws IOException {
-        File file = new File(Data.RESOURCE_PATH + "input2.txt");
+        File file = new File(Data.RESOURCE_PATH + "_2020/input2.txt");
         String content = new String(Files.readAllBytes(file.toPath()));
         //Task 1
         int validPassword = 0;

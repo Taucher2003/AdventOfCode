@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 public class Day1 {
 
     public static void main(String[] args) throws IOException {
-        File file = new File(Data.RESOURCE_PATH + "input1.txt");
+        File file = new File(Data.RESOURCE_PATH + "_2020/input1.txt");
         String content = new String(Files.readAllBytes(file.toPath()));
         List<Integer> input = new ArrayList<>();
         for(String entry : content.split(Pattern.quote("\r\n"))){
