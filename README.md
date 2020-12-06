@@ -10,7 +10,7 @@ Feel free to get inspiration by my solutions to build your own ones.
 | 3   | Java & C#   |
 | 4   | ❌           |
 | 5   | Java        |
-| 6   |             |
+| 6   | Java        |
 | 7   |             |
 | 8   |             |
 | 9   |             |
