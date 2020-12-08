@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Pattern;
 
@@ -72,15 +71,12 @@ public class Day4 {
                         Integer.parseInt(part[1]);
                         passValid &= part[1].length() == 9;
                     }
-                    System.out.println(Arrays.asList(part));
-                    System.out.println(passValid);
                 }
                 if(passValid)
                     valid++;
             }catch(NumberFormatException ignored) {
                 passValid = false;
             }
-            System.out.println("---");
         }
         System.out.println(valid);
     }
