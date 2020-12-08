@@ -11,8 +11,8 @@ Feel free to get inspiration by my solutions to build your own ones.
 | 4   | Java        |
 | 5   | Java        |
 | 6   | Java        |
-| 7   |             |
-| 8   |             |
+| 7   | ❌           |
+| 8   | Java        |
 | 9   |             |
 | 10  |             |
 | 11  |             |
