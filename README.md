@@ -3,6 +3,9 @@
 This repository holds my solutions for the advent of code challenges.
 Feel free to get inspiration by my solutions to build your own ones.
 
+<details>
+<summary>2020</summary>
+
 | Day | Solution    |
 |-----|-------------|
 | 1   | Java        |
@@ -29,3 +32,35 @@ Feel free to get inspiration by my solutions to build your own ones.
 | 22  |             |
 | 23  |             |
 | 24  |             |
+</details>
+
+<details open>
+<summary>2021</summary>
+
+| Day | Solution |
+|-----|----------|
+| 1   | Ruby     |
+| 2   |          |
+| 3   |          |
+| 4   |          |
+| 5   |          |
+| 6   |          |
+| 7   |          |
+| 8   |          |
+| 9   |          |
+| 10  |          |
+| 11  |          |
+| 12  |          |
+| 13  |          |
+| 14  |          |
+| 15  |          |
+| 16  |          |
+| 17  |          |
+| 18  |          |
+| 19  |          |
+| 20  |          |
+| 21  |          |
+| 22  |          |
+| 23  |          |
+| 24  |          |
+</details>
