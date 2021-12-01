@@ -1,6 +1,6 @@
 day=$1
 
-input="input/Day$day.txt"
-rubyFile="Day$day.rb"
+input="input/day_$day.txt"
+rubyFile="day_$day.rb"
 
 cat $input | ruby $rubyFile
