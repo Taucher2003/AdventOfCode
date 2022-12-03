@@ -71,7 +71,7 @@ Feel free to get inspiration by my solutions to build your own ones.
 | Day | Solution |
 |-----|----------|
 | 1   | Ruby     |
-| 2   |          |
+| 2   | Ruby     |
 | 3   |          |
 | 4   |          |
 | 5   |          |
