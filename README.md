@@ -75,7 +75,7 @@ Feel free to get inspiration by my solutions to build your own ones.
 | 3   | Ruby     |
 | 4   | Ruby     |
 | 5   | Ruby     |
-| 6   |          |
+| 6   | Ruby     |
 | 7   |          |
 | 8   |          |
 | 9   |          |

@@ -15,7 +15,7 @@ end
 
 instructions = lines.drop_while { |line| !line.start_with? 'move' }
 
-def simulate_crane(instructions, stacks, move_multiple = false)
+def simulate_crane(instructions, stacks, move_multiple: false)
   local_stacks = stacks.map(&:clone)
   instructions.each do |line|
     instruction = line.split ' '
@@ -42,4 +42,4 @@ def simulate_crane(instructions, stacks, move_multiple = false)
 end
 
 puts "Part 1: #{simulate_crane instructions, stacks}"
-puts "Part 2: #{simulate_crane instructions, stacks, true}"
+puts "Part 2: #{simulate_crane instructions, stacks, move_multiple: true}"
