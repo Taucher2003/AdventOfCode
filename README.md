@@ -78,8 +78,8 @@ Feel free to get inspiration by my solutions to build your own ones.
 | 6   | Ruby     |
 | 7   | Ruby     |
 | 8   | Ruby     |
-| 9   |          |
-| 10  |          |
+| 9   | ❌        |
+| 10  | Ruby     |
 | 11  |          |
 | 12  |          |
 | 13  |          |
