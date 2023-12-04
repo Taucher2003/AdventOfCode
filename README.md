@@ -103,8 +103,8 @@ Feel free to get inspiration by my solutions to build your own ones.
 |-----|----------|
 | 1   | Ruby     |
 | 2   | Ruby     |
-| 3   |          |
-| 4   |          |
+| 3   | ❌        |
+| 4   | Ruby     |
 | 5   |          |
 | 6   |          |
 | 7   |          |
