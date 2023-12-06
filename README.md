@@ -106,7 +106,7 @@ Feel free to get inspiration by my solutions to build your own ones.
 | 3   | ❌                 |
 | 4   | Ruby              |
 | 5   | Ruby (only first) |
-| 6   |                   |
+| 6   | Ruby              |
 | 7   |                   |
 | 8   |                   |
 | 9   |                   |
