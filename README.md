@@ -108,7 +108,7 @@ Feel free to get inspiration by my solutions to build your own ones.
 | 5   | Ruby (only first) |
 | 6   | Ruby              |
 | 7   | Ruby              |
-| 8   |                   |
+| 8   | Ruby              |
 | 9   |                   |
 | 10  |                   |
 | 11  |                   |
