@@ -127,7 +127,7 @@ Feel free to get inspiration by my solutions to build your own ones.
 | 24  |                   |
 </details>
 
-<details open>
+<details>
 <summary>2024</summary>
 
 | Day | Solution |
